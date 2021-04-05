@@ -1,6 +1,7 @@
 import express, { response } from 'express';
 import path from 'path';
 import cors from 'cors';
+import "dotenv/config";
 
 import 'express-async-errors';
 
@@ -10,8 +11,7 @@ import errorHandler from './errors/handler';
 const app= express();
 
 // Constants
-const PORT = 8080;
-const HOST ='0.0.0.0';
+const PORT = process.env.PORT || 8080;
 
 app.use(cors());
 app.use(express.json());
@@ -20,6 +20,6 @@ app.use(express.static(__dirname + "/public"));
 app.use('/uploads',express.static(path.join(__dirname, '..','uploads')))
 app.use(errorHandler);
 
-app.listen( PORT, HOST);
+app.listen( PORT);
 
-console.log(`Running on http://${HOST}:${PORT}`);
+console.log(`Server Is On`);

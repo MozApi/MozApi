@@ -1,0 +1,79 @@
+[
+    {
+        "Map Key": 1,
+        "Province": "Cabo Delgado",
+        "Capital": "Pemba",
+        "Area": 86625,
+        "Region": "North"
+    },
+    {
+        "Map Key": 2,
+        "Province": "Gaza",
+        "Capital": "Xai-Xai",
+        "Area": 75709,
+        "Region": "South"
+    },
+    {
+        "Map Key": 3,
+        "Province": "Inhambane",
+        "Capital": "Inhambane",
+        "Area": 68615,
+        "Region": "South"
+    },
+    {
+        "Map Key": 4,
+        "Province": "Manica",
+        "Capital": "Chimoio",
+        "Area": 61661,
+        "Region": "Central"
+    },
+    {
+        "Map Key": 5,
+        "Province": "Maputo City",
+        "Capital": "-",
+        "Area": 347,
+        "Region": "South"
+    },
+    {
+        "Map Key": 6,
+        "Province": "Maputo",
+        "Capital": "Matola",
+        "Area": 26011,
+        "Region": "South"
+    },
+    {
+        "Map Key": 7,
+        "Province": "Nampula",
+        "Capital": "Nampula",
+        "Area": 81606,
+        "Region": "North"
+    },
+    {
+        "Map Key": 8,
+        "Province": "Niassa",
+        "Capital": "Lichinga",
+        "Area": 129056,
+        "Region": "North"
+    },
+    {
+        "Map Key": 9,
+        "Province": "Sofala",
+        "Capital": "Beira",
+        "Area": 68018,
+        "Region": "Central"
+    },
+    {
+        "Map Key": 10,
+        "Province": "Tete",
+        "Capital": "Tete",
+        "Area": 100724,
+        "Region": "Central"
+    },
+    {
+        "Map Key": 11,
+        "Province": "Zambezia",
+        "Capital": "Quelimane",
+        "Area": 105008,
+        "Region": "North"
+    }
+]
